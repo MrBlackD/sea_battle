@@ -105,3 +105,6 @@ def shot(gameId: str, userId: str, x: int, y: int):
         current_game["winner"] = userId
     else:
         current_game["turn"] = target_player["id"]
+
+def new_good_function():
+    pass
