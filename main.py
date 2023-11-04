@@ -108,3 +108,6 @@ def shot(gameId: str, userId: str, x: int, y: int):
 
 def new_good_function():
     pass
+
+def brand_new_function():
+    print("do some good stuff")
